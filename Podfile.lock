@@ -1,0 +1,15 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - MJRefresh (3.1.12)
+
+DEPENDENCIES:
+  - DACircularProgress
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+
+PODFILE CHECKSUM: d3899d02d558bd96963fc431e277b92e7b6f4725
+
+COCOAPODS: 1.1.1
